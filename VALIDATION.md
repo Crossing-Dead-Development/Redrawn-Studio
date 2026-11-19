@@ -28,6 +28,6 @@ Added .gitignore, .gitattributes, a bilingual entry README and this verification
 
 ## Organization update / 組織更新
 
-Developer attribution and assembly author/company metadata now use Crossing Dead. The installable ZIP has been rebuilt from the updated project; artwork is unchanged. Historical commits and the original v1.0.0 source tag retain their original provenance. See the release notes for the updated source commit.
+Developer attribution and assembly author/company metadata now use Crossing Dead. The installable ZIP has been rebuilt from the updated project; artwork is unchanged. Historical commits retain their original provenance. The v1.0.0 source tag is updated to the organization release revision; see the release notes for the source commit.
 
-開發者及 DLL 作者／公司資訊統一為 Crossing Dead。可安裝 ZIP 使用更新後工程重新編譯，美術保持原樣。歷史提交與原 v1.0.0 原始碼標記保留歷史來源；新版成品對應提交見 Release 說明。
+開發者及 DLL 作者／公司資訊統一為 Crossing Dead。可安裝 ZIP 使用更新後工程重新編譯，美術保持原樣。歷史提交保留原始來源；v1.0.0 原始碼標記更新至組織版本，新版成品對應提交見 Release 說明。
