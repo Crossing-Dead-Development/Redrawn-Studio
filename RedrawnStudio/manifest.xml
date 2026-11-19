@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModManifest>
+  <ID>evansgoethe.redrawn</ID>
+  <Name>Redrawn Studio</Name>
+  <Author>Evans Goethe</Author>
+  <ModVersion>1.0.0</ModVersion>
+  <Description>Redrawn Studio — Independent portrait manager. F9 opens the English / Traditional Chinese Studio. No prerequisite mods.
+
+Special thanks to RetroAnime (Retro Anime, Workshop 3832229198) and Portrait Studio by Flaming (Workshop 3829932963). RetroAnime served as a technical reference for native mod loading, high-resolution portrait replacement and bottom-centred scaling. Portrait Studio inspired independent special-guest portraits, live switching, layout adjustment, the management interface and multi-source management. Development drew on examination of their distributed mod structures, configuration formats and compiled assembly behaviour, with AI-assisted implementation. This project does not bundle either reference mod's DLL or artwork; neither is a required dependency. Compatible external portrait packs can be used as optional sources.
+
+AI disclosure: Redrawn Studio was developed using AI-assisted vibe coding with OpenAI ChatGPT, under Evans Goethe's direction, including implementation, debugging, UI development, localisation and compatibility work. The original Redrawn portrait artwork is drawn by Evans Goethe.
+
+Redrawn Studio — 獨立立繪管理器；按 F9 開啟繁體中文／英文介面。無前置模組依賴。
+
+特別感謝 RetroAnime（Retro Anime，工作坊 3832229198）及 Flaming 開發的 Portrait Studio（工作坊 3829932963）。本專案參考 RetroAnime 的遊戲原生模組載入、高解析度立繪替換與底部置中縮放方式；並參考 Portrait Studio 的特殊客人獨立立繪、即時切換、位置與大小校準、管理介面及多來源管理設計。開發過程分析兩者已發行的模組結構、配置格式及編譯後程式集的行為，並以 AI 輔助實作。本專案未內附兩者的 DLL 或美術素材，亦不將其列為必要前置模組；相容的外部立繪包可作為選用來源。
+
+AI 使用聲明：Redrawn Studio 採用 AI 輔助的 Vibe Coding 開發方式，由 Evans Goethe 主導需求與功能設計，透過 OpenAI ChatGPT 協助程式實作、除錯、介面開發、在地化及相容性處理。Redrawn 原創角色立繪由 Evans Goethe 親自繪製。</Description>
+  <GameVersions />
+  <Prerequisites />
+  <Assemblies><Assembly>RedrawnStudio.dll</Assembly></Assemblies>
+  <Capabilities><Capability>files</Capability></Capabilities>
+</ModManifest>

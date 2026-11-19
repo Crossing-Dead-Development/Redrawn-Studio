@@ -1,0 +1,44 @@
+# Local build and IDE output
+**/bin/
+**/obj/
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.dll
+*.pdb
+*.deps.json
+*.cache
+*.log
+# Game libraries, archives and artwork are never part of this source repository
+**/Managed/
+*.zip
+*.7z
+*.rar
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.psd
+*.sai
+*.sai2
+*.aseprite
+*.ttf
+*.otf
+# Local imported packs, user choices, backups and credentials
+**/Sources/
+**/SourceBackup_*/
+**/RedrawnSource_*/
+**/RedrawnStudio_Backups/
+**/portrait-source.csv
+**/portrait-original.csv
+.env
+.env.*
+*.key
+*.pem
+*.pfx
+*.local.*
+desktop.ini
+Thumbs.db
+.DS_Store
