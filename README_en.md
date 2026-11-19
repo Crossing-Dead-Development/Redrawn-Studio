@@ -1,5 +1,5 @@
 # Redrawn Studio 1.0.0
-Evans Goethe · Independent high-resolution portrait manager
+Crossing Dead · Independent high-resolution portrait manager
 
 Redrawn Studio provides native mod loading, a custom Canvas editor, live reloading and multiple portrait sources. No prerequisite mod is required. English and Traditional Chinese are available in the Studio and its character catalog. 1.0.0 is the designated release version; this is a source release pending in-game validation.
 

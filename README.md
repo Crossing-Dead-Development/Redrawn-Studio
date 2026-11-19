@@ -1,6 +1,6 @@
 # Redrawn Studio 1.0.0
 
-**Evans Goethe** · Independent portrait manager for Probably Stolen / 獨立立繪管理器
+**Crossing Dead** · Independent portrait manager for Probably Stolen / 獨立立繪管理器
 
 [English documentation](README_en.md) · [繁體中文說明](README_zh-TW.md)
 
@@ -24,12 +24,19 @@ Special thanks to **RetroAnime** (Workshop 3832229198) and **Portrait Studio by 
 
 特別感謝 **RetroAnime**（工作坊 3832229198）與 **Flaming 的 Portrait Studio**（工作坊 3829932963）。前者為原生載入、高解析度立繪替換及底部置中縮放的技術參考；後者啟發特殊客人獨立立繪、即時切換、版面調整及多來源管理。開發時分析已發行模組結構、配置格式與編譯後程式集行為，並以 AI 輔助實作；未內附兩者 DLL 或美術，亦無須以其為前置模組。
 
-Developed using AI-assisted vibe coding with OpenAI ChatGPT under Evans Goethe's direction, including implementation, debugging, UI development, localization and compatibility work. Original Redrawn portrait artwork is drawn by Evans Goethe and is not included here. Full bilingual credits are retained in both manifests.
+Developed using AI-assisted vibe coding with OpenAI ChatGPT under Crossing Dead's direction, including implementation, debugging, UI development, localization and compatibility work. Original Redrawn portrait artwork is drawn by Evans Goethe and is not included here. Full bilingual credits are retained in both manifests.
 
-由 Evans Goethe 主導，以 OpenAI ChatGPT 輔助 vibe coding，涵蓋程式實作、除錯、介面、在地化與相容性工作。Redrawn 原創立繪由 Evans Goethe 親繪，本倉庫未收錄。兩份 manifest 均保留完整雙語致謝。
+由 Crossing Dead 主導，以 OpenAI ChatGPT 輔助 vibe coding，涵蓋程式實作、除錯、介面、在地化與相容性工作。Redrawn 原創立繪由 Evans Goethe 親繪，本倉庫未收錄。兩份 manifest 均保留完整雙語致謝。
 
 ## Rights and validation / 權利與驗證
 
 No open-source license has been selected or granted by this upload. Attribution does not grant rights to third-party assets. See [VALIDATION.md](VALIDATION.md) for the actual checks and remaining limitations; version 1.0.0 does not imply in-game acceptance.
 
 此次上傳未選定或授予開源授權；致謝不代表取得第三方素材使用權。實際檢查與限制請見 [VALIDATION.md](VALIDATION.md)；1.0.0 版本號不表示已通過實機驗收。
+
+
+## Developer / 開發者
+
+Developed and maintained by **Crossing Dead**, under **Crossing Dead Development**. Artwork attribution remains **Evans Goethe**. Legacy technical identifiers (including the mod ID and C# namespace) are retained for compatibility and are not developer credits.
+
+由 **Crossing Dead** 開發與維護，隸屬 **Crossing Dead Development**。美術作者仍署名 **Evans Goethe**。既有模組 ID 與 C# 命名空間保留相容性，不作為開發者署名。

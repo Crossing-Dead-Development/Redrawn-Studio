@@ -7,7 +7,8 @@
     <Version>1.0.0</Version>
     <AssemblyTitle>Redrawn Studio</AssemblyTitle>
     <Product>Redrawn Studio</Product>
-    <Authors>Evans Goethe</Authors>
+    <Authors>Crossing Dead</Authors>
+    <Company>Crossing Dead</Company>
     <EnableDefaultCompileItems>false</EnableDefaultCompileItems>
     <!-- Supply GameDir at build time; game assemblies remain local. -->
     <ManagedDir>$(GameDir)\Probably Stolen_Data\Managed</ManagedDir>

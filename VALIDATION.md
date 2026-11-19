@@ -1,11 +1,11 @@
 # Validation / 驗證紀錄
 
-Checked on 2026-11-19 for Redrawn Studio 1.0.0 by Evans Goethe.
+Checked on 2026-11-19 for Redrawn Studio 1.0.0 by Crossing Dead.
 
 ## Passed / 已通過
 
 - All 9 C# source files are byte-for-byte identical to the user-selected project folder. / 9 個 C# 檔案與指定工程逐位元組一致。
-- Both manifests match the latest supplied 1.0.0 credits patch, including author, version, bilingual technical references and AI disclosure. / 兩份 manifest 與最新致謝補丁一致。
+- Both manifests preserve the 1.0.0 credits patch, with developer attribution updated to Crossing Dead. Artwork remains credited to Evans Goethe. / 兩份 manifest 保留致謝補丁內容，開發者改為 Crossing Dead，美術仍署名 Evans Goethe。
 - All 410 catalog rows contain an ID, English name and Traditional Chinese name. / 410 筆目錄均有 ID、英文與繁體中文名稱。
 - Both PowerShell scripts parse without errors. / 兩份 PowerShell 腳本語法解析通過。
 - Clean Release compilation through Build.ps1 passed with .NET SDK 10.0.401 targeting netstandard2.1, using locally installed game Managed references: 0 warnings, 0 errors. Build output stayed in a separate temporary copy. / 使用本機遊戲參考組件，在獨立暫存副本執行 Build.ps1，Release 編譯 0 警告、0 錯誤。
@@ -24,3 +24,10 @@ Added .gitignore, .gitattributes, a bilingual entry README and this verification
 - No execution of the import script or the -Install branch. / 未執行匯入腳本或 -Install 安裝分支。
 - Original, night and wanted artwork is absent. Related rendering paths require authorized local images; missing images may produce warnings and retain game/provider artwork. / 未附一般、夜景及通緝立繪；相關功能需本機素材，缺圖可能警告並保留遊戲或來源圖像。
 - The build verifies only the locally available game assembly version; it does not establish compatibility with every game version or minimum SDK version. / 編譯僅驗證當前本機遊戲組件，不代表支援所有遊戲或最低 SDK 版本。
+
+
+## Organization update / 組織更新
+
+Developer attribution and assembly author/company metadata now use Crossing Dead. The installable ZIP has been rebuilt from the updated project; artwork is unchanged. Historical commits and the original v1.0.0 source tag retain their original provenance. See the release notes for the updated source commit.
+
+開發者及 DLL 作者／公司資訊統一為 Crossing Dead。可安裝 ZIP 使用更新後工程重新編譯，美術保持原樣。歷史提交與原 v1.0.0 原始碼標記保留歷史來源；新版成品對應提交見 Release 說明。
